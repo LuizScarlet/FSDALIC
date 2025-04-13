@@ -1,0 +1,4 @@
+compressai==1.1.8
+numpy==1.24
+einops
+timm
