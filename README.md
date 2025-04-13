@@ -1,9 +1,11 @@
 <div align="center">
-<h1> Few-Shot Domain Adaptation for Learned Image Compression
-</center> <br> <center> </h1>
+
+# Few-Shot Domain Adaptation for Learned Image Compression
+
+Tianyu Zhang, Haotian Zhang, Yuqi Li, Li Li, Dong Liu
 
 <p align="center">
-<a href="https://arxiv.org/abs/2308.07733" target="_blank">arXiv</a>  ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33100" target="_blank">Paper</a> 
+<a href="https://arxiv.org/abs/2409.11111" target="_blank">arXiv</a>  ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33100" target="_blank">Paper</a> 
 
 </div>
 
