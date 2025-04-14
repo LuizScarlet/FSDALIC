@@ -87,11 +87,14 @@ This repository is based on [CompressAI](https://github.com/InterDigitalInc/Comp
 If you find this project useful for your research, please kindly cite our paper:
 
 ```
-@article{zhang2024few,
+@inproceedings{zhang2025few,
   title={Few-Shot Domain Adaptation for Learned Image Compression},
   author={Zhang, Tianyu and Zhang, Haotian and Li, Yuqi and Li, Li and Liu, Dong},
-  journal={arXiv preprint arXiv:2409.11111},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={10},
+  pages={10139--10147},
+  year={2025}
 }
 ```
 
